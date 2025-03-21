@@ -35,9 +35,9 @@ nltk.download('punkt')
 ```
 
 ## Usage  
-### 1. Clone the Repository  
+### Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/clean-flow.git
+git clone https://github.com/IvanSholana/Tweet-Topic-Classification.git
 cd clean-flow
 ```
 
